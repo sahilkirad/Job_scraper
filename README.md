@@ -17,9 +17,8 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/yourusername/weworkremotely-scraper.git
+git clone https://github.com/sahilkirad/Job_scraper_Project.git
 cd weworkremotely-scraper
-(Note: Replace yourusername/weworkremotely-scraper.git with the actual repository URL once you upload it to GitHub.)
 
 Install the required Python packages:
 
